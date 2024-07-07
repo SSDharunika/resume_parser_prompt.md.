@@ -1,0 +1,160 @@
+**Resume Content**:
+[EDUCATION
+SRM Institute of Science & Technology, Ramapuram 2021 - 2025
+B.Tech. - Computer Science & Engineering | CGPA: 9.62 / 10
+PON VIDYASHRAM, Chennai 2020
+12
+th
+| CBSE | Percentage: 80.60 / 100
+PON VIDYASHRAM, Chennai 2018
+10
+th
+| CBSE | Percentage: 86.40 / 100
+INTERNSHIPS
+InternsElite | Technology 11 Oct, 2023 - 11 Dec, 2023
+Cyber Security
+Key Skills: Cyber Security Malware Analysis
+I did a training and internship program under InternsElite in cybersecurity. In this program I learnt about basics of cybersecurity terms
+and ethical hacking.
+bharat Intern | Technology 01 Aug, 2023 - 01 Sep, 2023
+Full Stack web development
+Key Skills: Front-End Web Development Web Development C C++ HTML CSS Javascript
+I completed two projects as a full stack web developer in Bharat intern. I did a project in developing a video conferencing website and
+a project management tool. I was certified for the completion of internship in the same company.
+BOSTON CONSULTING GROUP (BCG) | Consultancy 23 Jul, 2023 - 23 Aug, 2023
+Data Analyst
+Key Skills: Python JAVA Machine Learning C C++ Data Analysis Data Science
+Under the guidance and training of DevTown I did a internship with BCG( Boston Consulting Group). In this virtual internship I did a
+project on customer churn prediction model.
+PROJECTS
+Video conferencing website 23 Aug, 2023 - 23 Sep, 2023
+Team Size: 1
+Key Skills: Web Development Front-End Web Development HTML CSS C C++ Javascript
+Project Link: https://github.com/SSDharunika/video-conf
+This is a basic video conferencing website with Javascript. This project was done for the Bharat intern internship. This project is a
+simple video conference website to switch on/off the video and mike settings, add people and chat in the meeting.
+Project management tool 23 Aug, 2023 - 23 Sep, 2023
+Team Size: 1
+
+Key Skills: Web Development Front-End Web Development HTML CSS C++ C Javascript
+Project Link: https://github.com/SSDharunika/proj
+This project is a basic web development of project management tool using css, html and javascript where for the given names the
+projects can be assigned and they can write any blog and the completion of project is marked.
+Netflix clone using html,css,js 01 Sep, 2023 - 07 Sep, 2023
+Team Size: 1
+Key Skills: HTML CSS Javascript
+Customer Churn Prediction Model 23 Jul, 2023 - 23 Aug, 2023
+Team Size: 1
+Key Skills: Python Machine Learning Data Analysis Data Science
+Project Link: https://colab.research.google.com/drive/1tlS5-fyWov2kJzxR-S3h5qdlpK0XKtM_
+This project predicts whether the company underwent customer churn or not. This project also provides what amount the company
+may retain by giving 20% discount for the customers.
+Competitive Exam Registration System 09 Jan, 2023 - 19 May, 2023
+Team Size: 3
+Key Skills: Python SQL
+This is a group project where the project is of a simple registration system where we can enter our details and the hall ticket will be
+generated after login with the details registered.
+ASSESSMENTS / CERTIFICATIONS
+Data Scientist Industrial training program
+Key Skills: Data Science
+Java Core concepts
+Key Skills: Java
+competitive Programming
+Key Skills: Competitive Analysis
+Data Structures and Algorithms
+Key Skills: Data Structures
+Full Stack Web Development
+Key Skills: Front-End Web Development Web Development HTML CSS C C++ Javascript
+Cyber Security
+Key Skills: Cyber-security
+SKILLUP JAVASCRIPT WITH DEVTOWN
+Key Skills: Javascript
+Core concepts of C++
+Key Skills: C++
+Netflix Clone using HTML, CSS & JavaScript
+Key Skills: CSS Javascript HTML
+Foundations: Data, Data, Everywhere
+Aggregate: 95.15 / 100
+Key Skills: Data Analysis Data Cleaning SQL Spreadsheets Data Visualization
+
+Gender: Female
+Marital Status: Single
+Current Address: 1/A3 Jai Maruthi Villa, Jai Garden 4Th
+Street,,Valasaravakkam,Chennai,Chennai,Tamil Nadu,India,
+Chennai, Tamil Nadu, India - 600087
+
+Date of Birth: 19 May, 2003
+Known Languages: Tamil, English, Hindi, French, German
+Phone Numbers: +91-9789440058, +91-9940464709
+
+Emails: ss5782@srmist.edu.in , ssdharunika@gmail.com
+SEMINARS / TRAININGS / WORKSHOPS
+Full Stack App Development using Django Framework 10 Mar, 2024 - 10 Mar, 2024
+Institute Name: SRM Ramapuram - CSI
+Key Skills: Front-End Web Development Python Linux Framework Django
+I attended this workshop as a member of CSI in SRM. The managing director of Webinative technologies Mr. Magesh Ravi taught
+how to do basic web development using django framework by connecting linux in microsoft.
+CHATGPT AND AI HACKS WITH MS OFFICE 14 Jun, 2023 - 14 Jun, 2023
+Institute Name: SKILL NATION
+Key Skills: Artificial Intelligence Microsoft
+EXTRA CURRICULAR ACTIVITIES
+Student Member of Computer Society of India(CSI) in SRMIST
+Volunteered with Meraki Rotary club Chennai - Basic life saving skills
+President (2024-2025) of Rotaract club of Anvi Chennai
+Student Member of Institute Of Engineers(India)
+IMs
+Skype - live:.cid.8bda0b2e49e4a9da]
+
+**Output**:
+{
+  "name": "",
+  "contact_information": {
+    "email": "",
+    "phone": "",
+    "address": ""
+  },
+  "summary": "",
+  "experience": [
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "description": ""
+    }
+    // Add more experiences as needed
+  ],
+  "education": [
+    {
+      "degree": "",
+      "school": "",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "description": ""
+    }
+    // Add more education entries as needed
+  ],
+  "skills": [
+    ""
+    // Add more skills as needed
+  ],
+  "certifications": [
+    {
+      "name": "",
+      "issuing_organization": "",
+      "issue_date": "",
+      "expiration_date": ""
+    }
+    // Add more certifications as needed
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "technologies": ""
+    }
+    // Add more projects as needed
+  ]
+}
